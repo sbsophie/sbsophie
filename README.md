@@ -1,7 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbsophie&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8c94,10:ffaaa6,30:ffd3b5,75:dcedc2,100:a8e6ce&height=100&section=header&text=&fontSize=0" width="100%"/>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=안녕하세요%20박수빈입니다.&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=b3e8f6&height=130&section=header&text=안녕하세요%20박수빈입니다.&fontSize=60" />
 </p>
 
 <details>
@@ -18,13 +18,13 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junia3&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=f4ffd6&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subin&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=f4ffd6&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=junia3&show_icons=true&theme=material-palenight&hide_border=true&bg_color=f4ffd6&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subin&show_icons=true&theme=material-palenight&hide_border=true&bg_color=f4ffd6&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=junia3&theme=react-dark&bg_color=f4ffd6&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subin3&theme=react-dark&bg_color=f4ffd6&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 </p>
 
