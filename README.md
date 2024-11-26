@@ -1,4 +1,4 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234D5159&title_bg=%2355A6D9&icon=&icon_color=%23417D9A&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234D5159&title_bg=%234B7BA6&icon=&icon_color=%23417D9A&title=hits&edge_flat=false"/></a>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=b3e8f6&height=130&section=header&text=Welcome%20to%20Subin's%20Github.&fontSize=65&fontColor=0583f2" />
