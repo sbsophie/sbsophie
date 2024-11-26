@@ -1,6 +1,6 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbsophie&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=안녕하세요%20박수빈입니다.&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=안녕하세요%20박수빈입니다.&fontSize=50" />
 
 ## 보유기술
 | 언어 | DB | IDE | 빌드 | 배포 | 기술 |
