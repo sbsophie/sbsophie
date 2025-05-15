@@ -7,14 +7,6 @@
   <br/> Java / Spring / JSP 기반의 웹 프로젝트를 개발하고 있습니다.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MyBatis-000000?logo=mybatis"/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb"/>
-  <img src="https://img.shields.io/badge/JSP-007ACC"/>
-</p>
-
 
 ## 보유기술
 | 언어 | DB | IDE | 빌드 | 배포 | 기술 |
