@@ -25,25 +25,10 @@
   - API 응답 누락 문제 해결 및 Postman 테스트
 
 ## 프로젝트
-### 🎬 영화 리뷰 및 기록(filmLog)
+### 🎬 무자코 그룹웨어(MJC groupware)
 > 영화 API 기반의 기록 + 커뮤니티 웹 프로젝트  
 [GitHub 링크](https://github.com/4559jacky/film_log) | [요구사항 정의서](https://docs.google.com/spreadsheets/d/1z3QFklUzVlJD8Hfv_11_udTZbh2Y3jA9XBvZxV_PLUE/edit?usp=sharing) | [화면 설계서(Figma)](https://www.figma.com/design/OKjmIRnX5tBev2JOt6hnNC/1%EC%A1%B0-%ED%95%84%EB%A6%84%EB%A1%9C%EA%B7%B8?node-id=0-1&p=f&t=CQvG9SpodQ59R89b-0)
 
-- **수행 기간** : 2025.02.21 ~ 2025.03.10 (팀 프로젝트 / 4인)
-- **핵심 기술** : Java, Servlet/JSP, MariaDB, MyBatis, Bootstrap, jQuery
-- **주요 기능**
-  - **영화 API 연동**
-    - JSON 기반 외부 API 호출
-    - Jackson으로 파싱하여 Java 객체로 변환
-    - 영화 리스트 및 상세 페이지 구현
-  - **자유게시판 CRUD**
-    - 게시글 작성, 수정, 삭제
-    - 페이징 처리
-    - 실시간 유효성 검사
-    - AJAX 기반 비동기 처리
-- **트러블슈팅**
-  - JSON 키-필드 불일치 문제 해결: `@JsonProperty`로 정상 바인딩 처리
-  - API 응답 누락 문제 해결 및 Postman 테스트
 
 
 
@@ -54,58 +39,6 @@
 | 정보처리기사 | 2025.02 | 필기합격 | 한국산업인력공단 |
 | ACA Photoshop CC 2015 | 2020.10 | 최종합격 | ADOBE |
 | ACA Illustrator CC 2015 | 2020.10 | 최종합격 | ADOBE |
-
-<h2>📁 프로젝트</h2>
-
-<table>
-  <tr>
-    <td><strong>프로젝트명</strong></td>
-    <td>🎬 <strong>영화 리뷰 및 기록 (filmLog)</strong></td>
-  </tr>
-  <tr>
-    <td><strong>기간</strong></td>
-    <td>2025.02.21 ~ 2025.03.10</td>
-  </tr>
-  <tr>
-    <td><strong>팀원</strong></td>
-    <td>4명</td>
-  </tr>
-  <tr>
-    <td><strong>링크</strong></td>
-    <td>
-      <a href="https://github.com/4559jacky/film_log"><img src="https://img.shields.io/badge/Github-Repository-black?logo=github"/></a>
-      <a href="https://docs.google.com/spreadsheets/d/1z3QFklUzVlJD8Hfv_11_udTZbh2Y3jA9XBvZxV_PLUE/edit?usp=sharing"><img src="https://img.shields.io/badge/요구사항 정의서-green"/></a>
-      <a href="https://www.figma.com/design/OKjmIRnX5tBev2JOt6hnNC/1%EC%A1%B0-%ED%95%84%EB%A6%84%EB%A1%9C%EA%B7%B8?node-id=0-1&p=f&t=CQvG9SpodQ59R89b-0"><img src="https://img.shields.io/badge/화면 설계서-blueviolet?logo=figma"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>핵심 기술</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Servlet/JSP-00599C"/>
-      <img src="https://img.shields.io/badge/MyBatis-000000?logo=mybatis"/>
-      <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
-      <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>주요 기능</strong></td>
-    <td>
-      - 영화 API 연동 및 JSON 파싱<br/>
-      - Jackson을 이용한 Java 객체 바인딩<br/>
-      - 자유게시판 CRUD 및 AJAX 비동기 처리<br/>
-      - 게시글 유효성 검사 및 페이징 처리<br/>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>트러블슈팅</strong></td>
-    <td>
-      - JSON 키-필드명 불일치 문제 해결: <code>@JsonProperty</code> 적용<br/>
-      - API 응답 누락 문제 해결 및 Postman 테스트
-    </td>
-  </tr>
-</table>
 
 
 
