@@ -29,16 +29,30 @@
 > 영화 API 기반의 기록 + 커뮤니티 웹 프로젝트  
 [GitHub 링크](https://github.com/4559jacky/film_log) | [요구사항 정의서](https://docs.google.com/spreadsheets/d/1z3QFklUzVlJD8Hfv_11_udTZbh2Y3jA9XBvZxV_PLUE/edit?usp=sharing) | [화면 설계서(Figma)](https://www.figma.com/design/OKjmIRnX5tBev2JOt6hnNC/1%EC%A1%B0-%ED%95%84%EB%A6%84%EB%A1%9C%EA%B7%B8?node-id=0-1&p=f&t=CQvG9SpodQ59R89b-0)
 
+-  **수행 기간** : 2025.04.07 ~ 2025.05.19 (팀 프로젝트 / 6인)
 
+## 자격증
 
+- **SQL 개발자(SQLD)**
+  - 취득일 : 2025.03
+  - 합격 여부 : 최종합격
+  - 발급기관 : 한국데이터베이스진흥센터
 
-## 자격
-| 자격증 | 취득일 | 상태 | 발급기관 |
-|--------|--------|------|----------|
-| SQL개발자(SQLD) | 2025.03 | 최종합격 | 한국데이터베이스진흥센터 |
-| 정보처리기사 | 2025.02 | 필기합격 | 한국산업인력공단 |
-| ACA Photoshop CC 2015 | 2020.10 | 최종합격 | ADOBE |
-| ACA Illustrator CC 2015 | 2020.10 | 최종합격 | ADOBE |
+- **정보처리기사**
+  - 취득일 : 2025.02
+  - 합격 여부 : 필기합격
+  - 발급기관 : 한국산업인력공단
+
+- **ACA Photoshop CC 2015**
+  - 취득일 : 2020.10
+  - 합격 여부 : 최종합격
+  - 발급기관 : ADOBE
+
+- **ACA Illustrator CC 2015**
+  - 취득일 : 2020.10
+  - 합격 여부 : 최종합격
+  - 발급기관 : ADOBE
+
 
 
 
