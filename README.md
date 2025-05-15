@@ -29,8 +29,7 @@
   - JSON 키-필드 불일치 문제 해결: `@JsonProperty`로 정상 바인딩 처리
   - API 응답 누락 문제 해결 및 Postman 테스트
 
-## 프로젝트
-### 🎬 무자코 그룹웨어(MJC groupware)
+### 💼 무자코 그룹웨어(MJC groupware)
 > 영화 API 기반의 기록 + 커뮤니티 웹 프로젝트  
 [GitHub 링크](https://github.com/4559jacky/film_log) | [요구사항 정의서](https://docs.google.com/spreadsheets/d/1z3QFklUzVlJD8Hfv_11_udTZbh2Y3jA9XBvZxV_PLUE/edit?usp=sharing) | [화면 설계서(Figma)](https://www.figma.com/design/OKjmIRnX5tBev2JOt6hnNC/1%EC%A1%B0-%ED%95%84%EB%A6%84%EB%A1%9C%EA%B7%B8?node-id=0-1&p=f&t=CQvG9SpodQ59R89b-0)
 
