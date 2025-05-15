@@ -1,3 +1,24 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=200&section=header&text=Subin's%20Github&fontSize=45&fontAlign=50&fontColor=ffffff" alt="header" />
+</p>
+
+<p align="center">
+  👋 안녕하세요! 백엔드 중심의 웹 개발자 Subin입니다.  
+  <br/> Java / Spring / JSP 기반의 웹 프로젝트를 개발하고 있습니다.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MyBatis-000000?logo=mybatis"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb"/>
+  <img src="https://img.shields.io/badge/JSP-007ACC"/>
+</p>
+
+
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=b3e8f6&height=130&section=header&text=Welcome%20to%20Subin's%20Github.&fontSize=65&fontColor=0583f2" />
