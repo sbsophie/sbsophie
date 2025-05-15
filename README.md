@@ -14,7 +14,12 @@
 * 주요 코드 :
 
 ## 자격
-* 
+| 자격증 | 취득일 | 상태 | 발급기관 |
+|--------|--------|------|----------|
+| SQL개발자(SQLD) | 2025.03 | 최종합격 | 한국데이터베이스진흥센터 |
+| 정보처리기사 | 2025.02 | 필기합격 | 한국산업인력공단 |
+| ACA Photoshop CC 2015 | 2020.10 | 최종합격 | ADOBE |
+| ACA Illustrator CC 2015 | 2020.10 | 최종합격 | ADOBE |
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
