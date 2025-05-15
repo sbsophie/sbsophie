@@ -16,7 +16,7 @@
 ## 프로젝트
 ### 🎬 영화 리뷰 및 기록(filmLog)
 > 영화 API 기반의 기록 + 커뮤니티 웹 프로젝트  
-[GitHub 링크](https://github.com/4559jacky/film_log) | [요구사항 정의서](https://docs.google.com/spreadsheets/d/1z3QFklUzVlJD8Hfv_11_udTZbh2Y3jA9XBvZxV_PLUE/edit?usp=sharing) | [화면 설계서(Figma)](https://www.figma.com/design/OKjmIRnX5tBev2JOt6hnNC/1%EC%A1%B0-%ED%95%84%EB%A6%84%EB%A1%9C%EA%B7%B8?node-id=0-1&p=f&t=CQvG9SpodQ59R89b-0)
+[🔗GitHub 링크](https://github.com/4559jacky/film_log) | [📄요구사항 정의서](https://docs.google.com/spreadsheets/d/1z3QFklUzVlJD8Hfv_11_udTZbh2Y3jA9XBvZxV_PLUE/edit?usp=sharing) | [🎨화면 설계서(Figma)](https://www.figma.com/design/OKjmIRnX5tBev2JOt6hnNC/1%EC%A1%B0-%ED%95%84%EB%A6%84%EB%A1%9C%EA%B7%B8?node-id=0-1&p=f&t=CQvG9SpodQ59R89b-0)
 
 -  **수행 기간** : 2025.02.21 ~ 2025.03.10 (팀 프로젝트 / 4인)
 -  **핵심 기술** : Java, Servlet/JSP, MariaDB, MyBatis, Bootstrap, jQuery
@@ -30,10 +30,17 @@
   - API 응답 누락 문제 해결 및 Postman 테스트
 
 ### 💼 무자코 그룹웨어(MJC groupware)
-> 영화 API 기반의 기록 + 커뮤니티 웹 프로젝트  
-[GitHub 링크](https://github.com/4559jacky/film_log) | [요구사항 정의서](https://docs.google.com/spreadsheets/d/1z3QFklUzVlJD8Hfv_11_udTZbh2Y3jA9XBvZxV_PLUE/edit?usp=sharing) | [화면 설계서(Figma)](https://www.figma.com/design/OKjmIRnX5tBev2JOt6hnNC/1%EC%A1%B0-%ED%95%84%EB%A6%84%EB%A1%9C%EA%B7%B8?node-id=0-1&p=f&t=CQvG9SpodQ59R89b-0)
+> 커스터마이징 가능한 그룹웨어 웹 애플리케이션  
+[🔗GitHub 링크](https://github.com/4559jacky/final_project) | [📄요구사항 정의서](https://docs.google.com/spreadsheets/d/17v0SuwXxb4LZlLdd6mIFIvCngizhSfBdnps8SRC2HUA/edit?usp=sharing) | [🎨화면 설계서(Figma)](https://www.figma.com/design/Ap84GhfJk1KaxbGGkWdDhO/%EB%AC%B4%EC%9E%90%EC%BD%94-%ED%8C%8C%EC%9D%B4%EB%84%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8--%EA%B7%B8%EB%A3%B9%EC%9B%A8%EC%96%B4?node-id=34-26287&t=p8G6JDRixeEYdQpW-1)
 
 -  **수행 기간** : 2025.04.07 ~ 2025.05.19 (팀 프로젝트 / 6인)
+-  **핵심 기술** : 
+- **주요 기능**
+  - **일정 관리**
+    - FullCalendar 기반 캘린더 UI 적용
+  - **사내복지**
+    - 게시글 작성, 수정, 삭제, 페이징, 실시간 유효성 검사, 비동기 처리(AJAX)  
+
 
 ## 자격증
 
