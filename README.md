@@ -4,17 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=b3e8f6&height=130&section=header&text=Welcome%20to%20Subin's%20Github.&fontSize=65&fontColor=0583f2" />
 </p>
 
-<details>
-    <summary>About Me</summary>
-  <span>
-    <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/GitHub-ff8c94?style=plastic&logo=GitHub&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Gmail-a8e6ce?style=plastic&logo=Gmail&logoColor=white"/>
-  </a>
-  </span>
-</details>
+
 
 ## 보유기술
 | 언어 | DB | IDE | 빌드 | 배포 | 기술 |
