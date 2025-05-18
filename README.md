@@ -34,7 +34,7 @@
 [🔗GitHub 링크](https://github.com/4559jacky/final_project) | [📄요구사항 정의서](https://docs.google.com/spreadsheets/d/17v0SuwXxb4LZlLdd6mIFIvCngizhSfBdnps8SRC2HUA/edit?usp=sharing) | [🎨화면 설계서(Figma)](https://www.figma.com/design/Ap84GhfJk1KaxbGGkWdDhO/%EB%AC%B4%EC%9E%90%EC%BD%94-%ED%8C%8C%EC%9D%B4%EB%84%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8--%EA%B7%B8%EB%A3%B9%EC%9B%A8%EC%96%B4?node-id=34-26287&t=p8G6JDRixeEYdQpW-1)
 
 -  **수행 기간** : 2025.04.07 ~ 2025.05.19 (팀 프로젝트 / 6인)
--  **핵심 기술** : 
+-  **핵심 기술** : Java, Spring Boot, Spring Security, Thymeleaf, JPA, MyBatis, MariaDB, JavaScript(ES6), FullCalendar, KakaoPay API, Google Calendar API
 - **주요 기능**
   - **일정 관리**
     - FullCalendar 기반 캘린더 UI 적용
